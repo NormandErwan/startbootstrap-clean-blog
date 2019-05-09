@@ -6,6 +6,7 @@ theme = "startbootstrap-clean-blog"
 themesDir = "../../"
 languageCode = "en-us"
 copyright = "Code released under the Apache 2.0 license."
+summaryLength = 10
 
 [author]
     name = "Benoît Benedetti"
